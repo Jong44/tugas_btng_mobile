@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:shoes/components/PasswordFieldCustom.dart';
 import 'package:shoes/components/TextFieldCustom.dart';
-import 'package:shoes/page/auth/Login.dart';
+import 'package:shoes/ui/auth/Login.dart';
 
 class Register extends StatefulWidget {
   const Register({super.key});
@@ -27,7 +27,7 @@ class _RegisterState extends State<Register> {
             height: 100,
           ),
           Text(
-            "Login",
+            "Register",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontWeight: FontWeight.bold,
@@ -35,7 +35,7 @@ class _RegisterState extends State<Register> {
             ),
           ),
           Text(
-            "Sign in to Continue",
+            "Register to Continue",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontWeight: FontWeight.w500,

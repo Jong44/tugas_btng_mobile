@@ -1,0 +1,116 @@
+[
+    {
+        "id" : 1, 
+        "name" : "Brooks Ghoost 5",
+        "category" : "Running",
+        "price" : 50,
+        "new" : true 
+    },
+    {
+        "id" : 2, 
+        "name" : "Saucony Triumph 21",
+        "category" : "Running",
+        "price" : 50.2,
+        "new" : true 
+    },
+    {
+        "id" : 3, 
+        "name" : "Hoka Mach 5",
+        "category" : "Running",
+        "price" : 49,
+        "new" : false 
+    },
+    {
+        "id" : 4, 
+        "name" : "Lululemon Blissfeel 2",
+        "category" : "Running",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 5, 
+        "name" : "Salomon X Ultra 4",
+        "category" : "Hiking",
+        "price" : 50,
+        "new" : true 
+    },
+    {
+        "id" : 6, 
+        "name" : "Hoka Speedgoat 5",
+        "category" : "Hiking",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 7, 
+        "name" : "La Sportiva Spire GTX",
+        "category" : "Hiking",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 8, 
+        "name" : "La Sportiva TX4",
+        "category" : "Hiking",
+        "price" : 50,
+        "new" : true 
+    },
+    {
+        "id" : 9, 
+        "name" : "Air Zoom Mercurial Superfly IX",
+        "category" : "Football",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 10, 
+        "name" : "Nike Zoom Mercurial Vapor 15",
+        "category" : "Football",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 11, 
+        "name" : "adidas X Speedflow.1",
+        "category" : "Football",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 12, 
+        "name" : "Nike Phantom GT2 DF Elite",
+        "category" : "Football",
+        "price" : 50,
+        "new" : true 
+    },
+    {
+        "id" : 13, 
+        "name" : "Jordan Luka 2",
+        "category" : "Basket",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 14, 
+        "name" : "Nike KD 16",
+        "category" : "Basket",
+        "price" : 50,
+        "new" : false 
+    },
+    {
+        "id" : 15, 
+        "name" : "PUMA Stewie 2",
+        "category" : "Basket",
+        "price" : 50,
+        "new" : true 
+    },
+    {
+        "id" : 16, 
+        "name" : "Jordan Why Not .6",
+        "category" : "Basket",
+        "price" : 50,
+        "new" : true 
+    }
+
+    
+]
